@@ -1,6 +1,7 @@
 # MIX-KD
 This repo is the official Pytorch code for our WACV 2023, "Understanding the Role of Mixup in Knowledge Distillation: An Empirical Study" [paper](https://arxiv.org/pdf/2211.03946.pdf)
-<img src="result/result_heatmap.PNG" width="600">
+
+<img src="result/result_heatmap.PNG" width="700">
 
 # Requirement
 This code was tested with Python 3.8.12, Torch 1.7.1, and CUDA 11.0. But it should work with a recent version of the torch.  
